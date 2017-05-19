@@ -1,0 +1,21 @@
+c:\users\owais ul wara\documents\visual studio 2012\Projects\Directory_Work\Directory_Work\bin\Debug\Directory_Work.exe.config
+c:\users\owais ul wara\documents\visual studio 2012\Projects\Directory_Work\Directory_Work\bin\Debug\Directory_Work.exe
+c:\users\owais ul wara\documents\visual studio 2012\Projects\Directory_Work\Directory_Work\bin\Debug\Directory_Work.pdb
+c:\users\owais ul wara\documents\visual studio 2012\Projects\Directory_Work\Directory_Work\obj\Debug\Directory_Work.csprojResolveAssemblyReference.cache
+c:\users\owais ul wara\documents\visual studio 2012\Projects\Directory_Work\Directory_Work\obj\Debug\Directory_Work.Form1.resources
+c:\users\owais ul wara\documents\visual studio 2012\Projects\Directory_Work\Directory_Work\obj\Debug\Directory_Work.Properties.Resources.resources
+c:\users\owais ul wara\documents\visual studio 2012\Projects\Directory_Work\Directory_Work\obj\Debug\Directory_Work.csproj.GenerateResource.Cache
+c:\users\owais ul wara\documents\visual studio 2012\Projects\Directory_Work\Directory_Work\obj\Debug\Directory_Work.exe
+c:\users\owais ul wara\documents\visual studio 2012\Projects\Directory_Work\Directory_Work\obj\Debug\Directory_Work.pdb
+D:\Uni\Directory_Work\Directory_Work\bin\Debug\Directory_Work.exe.config
+D:\Uni\Directory_Work\Directory_Work\obj\Debug\Directory_Work.exe
+D:\Uni\Directory_Work\Directory_Work\obj\Debug\Directory_Work.pdb
+G:\Directory_Work\Directory_Work\bin\Debug\Directory_Work.exe.config
+G:\Directory_Work\Directory_Work\obj\Debug\Directory_Work.pdb
+G:\Directory_Work\Directory_Work\bin\Debug\Directory_Work.exe
+G:\Directory_Work\Directory_Work\bin\Debug\Directory_Work.pdb
+G:\Directory_Work\Directory_Work\obj\Debug\Directory_Work.csprojResolveAssemblyReference.cache
+G:\Directory_Work\Directory_Work\obj\Debug\Directory_Work.Form1.resources
+G:\Directory_Work\Directory_Work\obj\Debug\Directory_Work.Properties.Resources.resources
+G:\Directory_Work\Directory_Work\obj\Debug\Directory_Work.csproj.GenerateResource.Cache
+G:\Directory_Work\Directory_Work\obj\Debug\Directory_Work.exe
